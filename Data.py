@@ -52,7 +52,7 @@ Alternative Commands
 
 A telegram channel automation bot by @DarkVerseIndustries
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ChannelBot)
+Source Code : [Click Here](https://github.com/DarkVerse-industries/ChannelBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 

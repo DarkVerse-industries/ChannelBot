@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/ChannelBot"><img src="https://telegra.ph/file/98cda0fd7ebdc4002f07e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/DarkVerse-industries/ChannelBot"><img src="https://telegra.ph/file/5efec78b1d67c08325aee.jpg" width="2000"></a></p>
 
 Telegram bot to automate and manage channels.
 
